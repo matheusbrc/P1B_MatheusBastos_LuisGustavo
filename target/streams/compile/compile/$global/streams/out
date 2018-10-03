@@ -1,0 +1,6 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/ubuntu/workspace/p1/p1.scala:1457:12: comparing values of types Unit and Unit using `==' will always yield true[0m
+[0m[[0m[33mwarn[0m] [0m[0mcase class Result(matriz: Unit) extends Message[0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
